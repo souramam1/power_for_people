@@ -1,0 +1,13 @@
+# Per-EDM JSON cache. Regenerated automatically from the Parliament API
+# on the next run. Safe to delete. Do not share.
+cache/
+
+# Python bytecode cache. Auto-generated. Safe to delete.
+__pycache__/
+*.pyc
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
