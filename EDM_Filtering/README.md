@@ -10,9 +10,9 @@ since a chosen start date, and works out which MPs (or Peers) signed
 which motions.
 
 **Note (the use of AI):** 
-> This codebase was generated with/using Claude Opus 4.7, over a time period of ~3hrs.
-> The number of tokens used during this process is unknown.
-> Any use of the code in this codebase will *not* call on any MCP, LLM or use any API's apart from parliamentary APIs specified in the documentation below. 
+- This codebase was generated with/using Claude Opus 4.7, over a time period of ~3hrs.
+- The number of tokens used during this process is unknown.
+- Any use of the code in this codebase will *not* call on any MCP, LLM or use any API's apart from parliamentary APIs specified in the documentation below. 
 
 ---
 
