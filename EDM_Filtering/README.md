@@ -9,7 +9,10 @@ the UK Parliament's open APIs, downloads every Early Day Motion tabled
 since a chosen start date, and works out which MPs (or Peers) signed
 which motions.
 
-**Note on the use of AI:** This codebase was generated using Claude Opus 4.7 (LLM), over a time period of ~3hrs. The number of tokens used during this process is unknown. Subsequent use of the code within the codebase will *not* call on any MCP (model context protocols), LLMs or use any API's apart from parliamentary APIs specified in the documentation below. 
+**Note (the use of AI):** 
+> This codebase was generated with/using Claude Opus 4.7, over a time period of ~3hrs.
+> The number of tokens used during this process is unknown.
+> Any use of the code in this codebase will *not* call on any MCP, LLM or use any API's apart from parliamentary APIs specified in the documentation below. 
 
 ---
 
