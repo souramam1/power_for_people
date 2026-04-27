@@ -13,7 +13,7 @@ which motions.
 - This codebase was generated with/using Claude Opus 4.7, over a time period of ~3hrs.
 - This codebase was designed/tested/cross-checked by a human developer (Maia Ramambason) throughout this process.
 - The number of tokens used during this process is unknown.
-- Any use of the code in this codebase will *not* call on any MCP, LLM or use any API's apart from parliamentary APIs specified in the documentation below. 
+- Any use of the code in this codebase will *not* call on any MCP, LLM or use any APIs apart from parliamentary APIs specified in the documentation below. 
 
 ---
 
